@@ -19,6 +19,6 @@ Una cocina inteligente multimodal que permite:
 - alertas inteligentes
 """)
 
-st.image("assets/kitchen.jpg")
+st.image("assets/kitchen.jpeg")
 
 st.info("Usa el menú lateral para navegar entre páginas.")
